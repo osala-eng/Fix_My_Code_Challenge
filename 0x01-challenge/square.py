@@ -5,7 +5,7 @@ contains class square
 '''
 
 
-class square():
+class Square():
     '''
     Class square
     '''
